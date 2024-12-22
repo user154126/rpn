@@ -12,7 +12,7 @@
 
    ```bash
    git clone https://github.com/user154126/rpn.git
-   cd calc_go
+   cd rpn
    ```
 
 2. Убедитесь, что Go установлен и находится в `$PATH` (проверить версию можно командой `go version`).
